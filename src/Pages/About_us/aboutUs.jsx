@@ -15,10 +15,10 @@ const AboutUs = ( ) =>{
         	<div className="row">
                 <div className="col-12 col-sm-12 col-md-12 col-lg-12 main-col">
                 	<div className="text-center mb-4">
-                        <h2 className="h2">Belle Multipurpose Bootstrap 4 Html Template</h2>
+                        <h2 className="h2">MODA FASHION</h2>
                         <div className="rte-setting">
-                            <p><strong>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</strong></p>
-                            <p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
+                            <p><strong>…is one of the fastest growing e-Commerce companies in PAKISTAN and ISLAMABAD  first unicorn since 2018. As a fashion and technology corporation, along with our strong team, our ambition is to digitalize the classic shopping stroll by creating an inspiring and personalized shopping experience on the smartphone.</strong></p>
+                            <p>This is why we created Moda, a shopping destination where people can discover fashion that really fits their personality from a range of more than 35 brands. With its consistent focus on personalization, inspiration, and mobile shopping, MODA has created sales in excess of €1,73 Million in the fiscal year 2021/22 and is now one of the largest fashion e-tailers in pakistan.</p>
                         </div>
                     </div>
                	</div>
@@ -30,27 +30,25 @@ const AboutUs = ( ) =>{
             </div>
             <div className="row">
             	<div className="col-12">
-                    <h2>Sed ut perspiciatis unde omnis iste natus error</h2>
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain.</p>
-                    <p>simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted.</p>
+                    <h2>ABOUT OUR COMPANY CULTURE</h2>
+                    <p>We have made it our mission to provide an inclusive and inspiring work environment for our team. Each and everyone of us contributes to the vibrant culture of our company and therefore to the identity of our brand. As a diverse collective with a variety of strengths and expertise, we share a common vision that constantly influences our corporate culture, our brand and the way we run our business. Our brand core is based on our corporate culture: It should feel great to show yourself in a fair way. We want to encourage acceptance for others and ourselves and promote an inclusive, fair and circular fashion culture. Find out more about our vision and mindset in our culture booklet.</p>
                     <p></p>
                 </div>
             </div>
             
             <div className="row">
             	<div className="col-12 col-sm-12 col-md-6 col-lg-6 mb-4">
-                	<h2 className="h2">About Annimex Web</h2>
-                    <div className="rte-setting"><p><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong></p>
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                	<h2 className="h2">About Our Vision</h2>
+                    <div className="rte-setting"><p><strong>Since our beginnings, we have always seen our mission as empowering people to express themselves through fashion. To not be afraid to stand up. To be confident, tolerant and open-minded. We believe in the just idea of doing business with a positive environmental impact and the fair treatment of all people. Therefore, we aim to operate our business with as many positive consequences for anything or anyone as possible. We take a stand for peace, tolerance and a healthy planet.</strong></p>
                     <p></p>
-                    <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.</p></div>
+                    </div>
                 </div>
                 <div className="col-12 col-sm-12 col-md-6 col-lg-6">
                 	<h2 className="h2">Contact Us</h2>
                     <ul className="addressFooter">
-                        <li><i className="icon anm anm-map-marker-al"></i><p>55 Gallaxy Enque, 2568 steet, 23568 NY</p></li>
-                        <li className="phone"><i className="icon anm anm-phone-s"></i><p>(440) 000 000 0000</p></li>
-                        <li className="email"><i className="icon anm anm-envelope-l"></i><p>sales@yousite.com</p></li>
+                        <li><i className="icon anm anm-map-marker-al"></i><p>Bharia phase 4 civic center Islamabad </p></li>
+                        <li className="phone"><i className="icon anm anm-phone-s"></i><p>0900 78601</p></li>
+                        <li className="email"><i className="icon anm anm-envelope-l"></i><p>sales@moda.com</p></li>
                     </ul>
                     <hr />
                     <ul className="list--inline site-footer__social-icons social-icons">

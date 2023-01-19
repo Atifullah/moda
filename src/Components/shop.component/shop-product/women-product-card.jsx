@@ -64,7 +64,7 @@ const WomenProductCard =({item})=>{
                                             	</a>
                                           
                                                 <form action="#" method="post">
-                                                    <button className="btn btn--secondary cartIcon btn-addto-cart" type="button"><i className="icon anm anm-bag-l"></i></button>
+                                                    <button className="btn btn--secondary cartIcon btn-addto-cart" type="button" onClick={addProductToCart}><i className="icon anm anm-bag-l"></i></button>
                                                 </form>
                                                 <div className="wishlist-btn">
                                                     <a className="wishlist add-to-wishlist" href="#" title="Add to Wishlist">

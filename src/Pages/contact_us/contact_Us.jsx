@@ -37,7 +37,7 @@ const ContactUs = ( ) =>{
             <div className="row">
             	<div className="col-12 col-sm-12 col-md-8 col-lg-8 mb-4">
                 	<h2>Drop Us A Line</h2>
-                    <p>Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano de 1500 </p>
+                    <p>Our customer care are available for you 27/4 feel free to contact with us ! </p>
                 	<div className="formFeilds contact-form form-vertical">
                       <form action="http://annimexweb.com/items/belle/assets/php/mail.php" method="post"  id="contact_form" className="contact-form">	
                       <div className="row">
@@ -88,7 +88,7 @@ const ContactUs = ( ) =>{
                 	<hr />
                     <ul className="addressFooter">
                         <li><i className="icon anm anm-map-marker-al"></i><p>plaza 57 office 203 phase 4 bharia town islamabad</p></li>
-                        <li className="phone"><i className="icon anm anm-phone-s"></i><p>(440) 000 000 0000</p></li>
+                        <li className="phone"><i className="icon anm anm-phone-s"></i><p>0900 78601</p></li>
                         <li className="email"><i className="icon anm anm-envelope-l"></i><p>sales@moda.com</p></li>
                     </ul>
                     <hr />

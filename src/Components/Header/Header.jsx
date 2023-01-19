@@ -113,13 +113,6 @@ const  Header = () =>{
                           </ul>
                         </li>
                         <li className="lvl1 parent dropdown"><a href="#">Blog <i className="anm anm-angle-down-l"></i></a>
-                          <ul className="dropdown">
-                            <li><a href="blog-left-sidebar.html" className="site-nav">Left Sidebar</a></li>
-                            <li><a href="blog-right-sidebar.html" className="site-nav">Right Sidebar</a></li>
-                            <li><a href="blog-fullwidth.html" className="site-nav">Fullwidth</a></li>
-                            <li><a href="blog-grid-view.html" className="site-nav">Gridview</a></li>
-                            <li><a href="blog-article.html" className="site-nav">Article</a></li>
-                          </ul>
                         </li>
                         
                       </ul>

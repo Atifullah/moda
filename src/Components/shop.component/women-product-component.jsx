@@ -9,7 +9,7 @@ import './shopx.styles.scss';
 const WomenProductComponent = () => {
   const [data,setData]=useState([]);
   const getData=()=>{
-    fetch('http://localhost:8080/getapi'
+    fetch('https://moda-database-f714e-default-rtdb.asia-southeast1.firebasedatabase.app/women.json'
     ,{
       headers : { 
         'Content-Type': 'application/json',
@@ -22,9 +22,9 @@ const WomenProductComponent = () => {
         return response.json();
       })
       .then(function(myJson) {
-        console.log(myJson.women);
+        console.log(myJson);
        
-        setData(myJson.women)
+        setData(myJson)
       });
   }
   useEffect(()=>{
@@ -35,7 +35,7 @@ const WomenProductComponent = () => {
     <div class="row">
       {
         
-      data.length>0 && data.map((item) => (
+      data && data.map((item) => (
  
         <WomenProductCard key={item.id} item={item}/>
         

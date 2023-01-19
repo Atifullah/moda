@@ -96,7 +96,7 @@ const CartPage = ({} ) =>{
                            
                     		<tfoot>
                                 <tr>
-                                    <td colspan="3" className="text-left"><a onClick={GoToCheckOut} className="btn btn-secondary btn--small cart-continue">Continue shopping</a></td>
+                                    <td colspan="3" className="text-left"><a onClick={GoToCheckOut} className="btn btn-secondary btn--small cart-continue" style={{color:'white'}}>Continue shopping</a></td>
                                     <td colspan="3" className="text-right">
                                    
                                     <span   name="clear" className="btn btn-secondary btn--small  small--hide" style={{margin:'10px'}}>PKR: {cartTotal}</span>
@@ -377,7 +377,7 @@ const CartPage = ({} ) =>{
                                 <span class="col-12 col-sm-6 text-right"><span class="money">{cartTotal}</span></span>
                               </div>
                               <div class="row border-bottom pb-2 pt-2">
-                                <span class="col-12 col-sm-6 cart__subtotal-title">Discount %</span>
+                                <span class="col-12 col-sm-6 cart__subtotal-title">Discount</span>
                                 <span class="col-12 col-sm-6 text-right">{cartDiscount}</span>
                               </div>
                               <div class="row border-bottom pb-2 pt-2">
